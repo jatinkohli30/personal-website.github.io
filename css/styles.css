@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #D4ECDD;
+}
+.circular {
+  border-radius: 500px;
+  height: 200px;
+  width: 200px;
+
+}
+.Mountain {
+  height: 800px;
+  width: 1200px;
+  margin-bottom: 5%;
+}
+.cloud {
+  height: 150px;
+  width: 250px;
+  position: relative;
+  margin-right: 50%;
+}
+
+h1 {
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size:300%;
+
+}
+h2 {
+  color: #66BFBF;
+  font-family: 'montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3 {
+  color: #11999E;
+  font-family: 'montserrat', sans-serif;
+}
+.top-container {
+  background-color:#D4ECDD;
+  position: relative;
+  padding-top: 100px;
+
+}
+.middle-container {
+margin: 100px 0;
+
+}
+.brain {
+  width: 200px;
+}
+.laptop {
+  width: 200px;
+  margin-left: 30px;
+}
+.bottom-container {
+background-color: #56BFBF;
+padding: 30px 0 20px;
+}
+.web {
+  text-decoration: underline;
+}
+.btn {
+  background-color: #63B4B8;
+  border: none;
+  color: white;
+  padding: 10px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+hr {
+  border: dotted #316B83;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
